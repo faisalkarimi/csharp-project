@@ -1,3 +1,5 @@
+[![.NET](https://github.com/faisalkarimi/csharp-project/actions/workflows/main.yml/badge.svg)](https://github.com/faisalkarimi/csharp-project/actions/workflows/main.yml)
+
 # csharp-project
 Day 1 of C# coding
 
